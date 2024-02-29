@@ -1,0 +1,133 @@
+financial_year,maker,market_share,month,num_vehicles
+2020-21,Hero Electric,0.36,Apr,39
+2020-21,Hero Electric,0.36,May,200
+2020-21,Hero Electric,0.36,Jun,530
+2020-21,Hero Electric,0.36,Jul,421
+2020-21,Hero Electric,0.36,Aug,581
+2020-21,Hero Electric,0.36,Sep,1102
+2020-21,Hero Electric,0.36,Oct,355
+2020-21,Hero Electric,0.36,Nov,1219
+2020-21,Hero Electric,0.36,Dec,1701
+2020-21,Hero Electric,0.36,Jan,1788
+2020-21,Hero Electric,0.36,Feb,2308
+2020-21,Hero Electric,0.36,Mar,5712
+2020-21,Okinawa Autotech,0.16,Apr,27
+2020-21,Okinawa Autotech,0.16,May,90
+2020-21,Okinawa Autotech,0.16,Jun,356
+2020-21,Okinawa Autotech,0.16,Jul,409
+2020-21,Okinawa Autotech,0.16,Aug,413
+2020-21,Okinawa Autotech,0.16,Sep,552
+2020-21,Okinawa Autotech,0.16,Oct,548
+2020-21,Okinawa Autotech,0.16,Nov,642
+2020-21,Okinawa Autotech,0.16,Dec,613
+2020-21,Okinawa Autotech,0.16,Jan,725
+2020-21,Okinawa Autotech,0.16,Feb,1067
+2020-21,Okinawa Autotech,0.16,Mar,1530
+2020-21,Ampere Vehicles,0.14,Apr,4
+2020-21,Ampere Vehicles,0.14,May,44
+2020-21,Ampere Vehicles,0.14,Jun,155
+2020-21,Ampere Vehicles,0.14,Jul,204
+2020-21,Ampere Vehicles,0.14,Aug,252
+2020-21,Ampere Vehicles,0.14,Sep,311
+2020-21,Ampere Vehicles,0.14,Oct,786
+2020-21,Ampere Vehicles,0.14,Nov,655
+2020-21,Ampere Vehicles,0.14,Dec,942
+2020-21,Ampere Vehicles,0.14,Jan,954
+2020-21,Ampere Vehicles,0.14,Feb,825
+2020-21,Ampere Vehicles,0.14,Mar,957
+2020-21,Ather Energy,0.1,Apr,0
+2020-21,Ather Energy,0.1,May,143
+2020-21,Ather Energy,0.1,Jun,157
+2020-21,Ather Energy,0.1,Jul,144
+2020-21,Ather Energy,0.1,Aug,243
+2020-21,Ather Energy,0.1,Sep,265
+2020-21,Ather Energy,0.1,Oct,258
+2020-21,Ather Energy,0.1,Nov,360
+2020-21,Ather Energy,0.1,Dec,535
+2020-21,Ather Energy,0.1,Jan,606
+2020-21,Ather Energy,0.1,Feb,626
+2020-21,Ather Energy,0.1,Mar,1064
+2020-21,Revolt,0.04,Apr,0
+2020-21,Revolt,0.04,May,0
+2020-21,Revolt,0.04,Jun,102
+2020-21,Revolt,0.04,Jul,125
+2020-21,Revolt,0.04,Aug,274
+2020-21,Revolt,0.04,Sep,89
+2020-21,Revolt,0.04,Oct,215
+2020-21,Revolt,0.04,Nov,459
+2020-21,Revolt,0.04,Dec,251
+2020-21,Revolt,0.04,Jan,155
+2020-21,Revolt,0.04,Feb,70
+2020-21,Revolt,0.04,Mar,53
+2020-21,Bajaj,0.03,Apr,0
+2020-21,Bajaj,0.03,May,28
+2020-21,Bajaj,0.03,Jun,67
+2020-21,Bajaj,0.03,Jul,32
+2020-21,Bajaj,0.03,Aug,96
+2020-21,Bajaj,0.03,Sep,231
+2020-21,Bajaj,0.03,Oct,222
+2020-21,Bajaj,0.03,Nov,253
+2020-21,Bajaj,0.03,Dec,184
+2020-21,Bajaj,0.03,Jan,100
+2020-21,Bajaj,0.03,Feb,111
+2020-21,Bajaj,0.03,Mar,146
+2020-21,Pure EV,0.05,Apr,0
+2020-21,Pure EV,0.05,May,8
+2020-21,Pure EV,0.05,Jun,4
+2020-21,Pure EV,0.05,Jul,24
+2020-21,Pure EV,0.05,Aug,79
+2020-21,Pure EV,0.05,Sep,104
+2020-21,Pure EV,0.05,Oct,163
+2020-21,Pure EV,0.05,Nov,168
+2020-21,Pure EV,0.05,Dec,171
+2020-21,Pure EV,0.05,Jan,272
+2020-21,Pure EV,0.05,Feb,408
+2020-21,Pure EV,0.05,Mar,679
+2020-21,Benling,0.03,Apr,0
+2020-21,Benling,0.03,May,23
+2020-21,Benling,0.03,Jun,33
+2020-21,Benling,0.03,Jul,41
+2020-21,Benling,0.03,Aug,53
+2020-21,Benling,0.03,Sep,99
+2020-21,Benling,0.03,Oct,70
+2020-21,Benling,0.03,Nov,88
+2020-21,Benling,0.03,Dec,120
+2020-21,Benling,0.03,Jan,169
+2020-21,Benling,0.03,Feb,256
+2020-21,Benling,0.03,Mar,156
+2020-21,Jitendra,0.01,Apr,0
+2020-21,Jitendra,0.01,May,1
+2020-21,Jitendra,0.01,Jun,7
+2020-21,Jitendra,0.01,Jul,15
+2020-21,Jitendra,0.01,Aug,13
+2020-21,Jitendra,0.01,Sep,76
+2020-21,Jitendra,0.01,Oct,101
+2020-21,Jitendra,0.01,Nov,56
+2020-21,Jitendra,0.01,Dec,88
+2020-21,Jitendra,0.01,Jan,37
+2020-21,Jitendra,0.01,Feb,124
+2020-21,Jitendra,0.01,Mar,101
+2020-21,TVS,0.02,Apr,0
+2020-21,TVS,0.02,May,19
+2020-21,TVS,0.02,Jun,28
+2020-21,TVS,0.02,Jul,25
+2020-21,TVS,0.02,Aug,22
+2020-21,TVS,0.02,Sep,25
+2020-21,TVS,0.02,Oct,26
+2020-21,TVS,0.02,Nov,26
+2020-21,TVS,0.02,Dec,42
+2020-21,TVS,0.02,Jan,149
+2020-21,TVS,0.02,Feb,208
+2020-21,TVS,0.02,Mar,267
+2020-21,Others,0.07,Apr,13
+2020-21,Others,0.07,May,2
+2020-21,Others,0.07,Jun,56
+2020-21,Others,0.07,Jul,37
+2020-21,Others,0.07,Aug,70
+2020-21,Others,0.07,Sep,181
+2020-21,Others,0.07,Oct,154
+2020-21,Others,0.07,Nov,224
+2020-21,Others,0.07,Dec,264
+2020-21,Others,0.07,Jan,309
+2020-21,Others,0.07,Feb,520
+2020-21,Others,0.07,Mar,1139

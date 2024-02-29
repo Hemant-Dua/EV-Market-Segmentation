@@ -1,0 +1,145 @@
+financial_year,maker,market_share,month,num_vehicles
+2021-22,Hero Electric,0.28,Apr,759
+2021-22,Hero Electric,0.28,May,170
+2021-22,Hero Electric,0.28,Jun,1337
+2021-22,Hero Electric,0.28,Jul,4572
+2021-22,Hero Electric,0.28,Aug,5475
+2021-22,Hero Electric,0.28,Sep,6652
+2021-22,Hero Electric,0.28,Oct,6687
+2021-22,Hero Electric,0.28,Nov,7457
+2021-22,Hero Electric,0.28,Dec,6407
+2021-22,Hero Electric,0.28,Jan,8153
+2021-22,Hero Electric,0.28,Feb,7705
+2021-22,Hero Electric,0.28,Mar,13562
+2021-22,Okinawa Autotech,0.19,Apr,1193
+2021-22,Okinawa Autotech,0.19,May,217
+2021-22,Okinawa Autotech,0.19,Jun,960
+2021-22,Okinawa Autotech,0.19,Jul,2580
+2021-22,Okinawa Autotech,0.19,Aug,2855
+2021-22,Okinawa Autotech,0.19,Sep,3266
+2021-22,Okinawa Autotech,0.19,Oct,4086
+2021-22,Okinawa Autotech,0.19,Nov,5372
+2021-22,Okinawa Autotech,0.19,Dec,6101
+2021-22,Okinawa Autotech,0.19,Jan,5615
+2021-22,Okinawa Autotech,0.19,Feb,5924
+2021-22,Okinawa Autotech,0.19,Mar,8285
+2021-22,Ampere Vehicles,0.1,Apr,751
+2021-22,Ampere Vehicles,0.1,May,147
+2021-22,Ampere Vehicles,0.1,Jun,299
+2021-22,Ampere Vehicles,0.1,Jul,663
+2021-22,Ampere Vehicles,0.1,Aug,810
+2021-22,Ampere Vehicles,0.1,Sep,807
+2021-22,Ampere Vehicles,0.1,Oct,1083
+2021-22,Ampere Vehicles,0.1,Nov,2078
+2021-22,Ampere Vehicles,0.1,Dec,3411
+2021-22,Ampere Vehicles,0.1,Jan,4367
+2021-22,Ampere Vehicles,0.1,Feb,4433
+2021-22,Ampere Vehicles,0.1,Mar,6668
+2021-22,Ather Energy,0.08,Apr,903
+2021-22,Ather Energy,0.08,May,160
+2021-22,Ather Energy,0.08,Jun,319
+2021-22,Ather Energy,0.08,Jul,1799
+2021-22,Ather Energy,0.08,Aug,1612
+2021-22,Ather Energy,0.08,Sep,2175
+2021-22,Ather Energy,0.08,Oct,2648
+2021-22,Ather Energy,0.08,Nov,2203
+2021-22,Ather Energy,0.08,Dec,1813
+2021-22,Ather Energy,0.08,Jan,1881
+2021-22,Ather Energy,0.08,Feb,2233
+2021-22,Ather Energy,0.08,Mar,2233
+2021-22,Pure EV,0.06,Apr,581
+2021-22,Pure EV,0.06,May,122
+2021-22,Pure EV,0.06,Jun,460
+2021-22,Pure EV,0.06,Jul,1318
+2021-22,Pure EV,0.06,Aug,1094
+2021-22,Pure EV,0.06,Sep,1337
+2021-22,Pure EV,0.06,Oct,1400
+2021-22,Pure EV,0.06,Nov,1688
+2021-22,Pure EV,0.06,Dec,1685
+2021-22,Pure EV,0.06,Jan,1691
+2021-22,Pure EV,0.06,Feb,1428
+2021-22,Pure EV,0.06,Mar,2066
+2021-22,Ola Electric,0.06,Apr,0
+2021-22,Ola Electric,0.06,May,0
+2021-22,Ola Electric,0.06,Jun,0
+2021-22,Ola Electric,0.06,Jul,0
+2021-22,Ola Electric,0.06,Aug,0
+2021-22,Ola Electric,0.06,Sep,0
+2021-22,Ola Electric,0.06,Oct,0
+2021-22,Ola Electric,0.06,Nov,0
+2021-22,Ola Electric,0.06,Dec,240
+2021-22,Ola Electric,0.06,Jan,1106
+2021-22,Ola Electric,0.06,Feb,3910
+2021-22,Ola Electric,0.06,Mar,9143
+2021-22,TVS,0.04,Apr,302
+2021-22,TVS,0.04,May,9
+2021-22,TVS,0.04,Jun,208
+2021-22,TVS,0.04,Jul,648
+2021-22,TVS,0.04,Aug,651
+2021-22,TVS,0.04,Sep,688
+2021-22,TVS,0.04,Oct,486
+2021-22,TVS,0.04,Nov,522
+2021-22,TVS,0.04,Dec,1118
+2021-22,TVS,0.04,Jan,1156
+2021-22,TVS,0.04,Feb,1554
+2021-22,TVS,0.04,Mar,2388
+2021-22,Revolt,0.03,Apr,138
+2021-22,Revolt,0.03,May,42
+2021-22,Revolt,0.03,Jun,59
+2021-22,Revolt,0.03,Jul,322
+2021-22,Revolt,0.03,Aug,854
+2021-22,Revolt,0.03,Sep,499
+2021-22,Revolt,0.03,Oct,900
+2021-22,Revolt,0.03,Nov,779
+2021-22,Revolt,0.03,Dec,835
+2021-22,Revolt,0.03,Jan,673
+2021-22,Revolt,0.03,Feb,1128
+2021-22,Revolt,0.03,Mar,1412
+2021-22,Bajaj,0.03,Apr,48
+2021-22,Bajaj,0.03,May,20
+2021-22,Bajaj,0.03,Jun,176
+2021-22,Bajaj,0.03,Jul,729
+2021-22,Bajaj,0.03,Aug,796
+2021-22,Bajaj,0.03,Sep,381
+2021-22,Bajaj,0.03,Oct,754
+2021-22,Bajaj,0.03,Nov,728
+2021-22,Bajaj,0.03,Dec,642
+2021-22,Bajaj,0.03,Jan,612
+2021-22,Bajaj,0.03,Feb,1371
+2021-22,Bajaj,0.03,Mar,854
+2021-22,Benling,0.03,Apr,171
+2021-22,Benling,0.03,May,54
+2021-22,Benling,0.03,Jun,174
+2021-22,Benling,0.03,Jul,473
+2021-22,Benling,0.03,Aug,294
+2021-22,Benling,0.03,Sep,311
+2021-22,Benling,0.03,Oct,433
+2021-22,Benling,0.03,Nov,857
+2021-22,Benling,0.03,Dec,1094
+2021-22,Benling,0.03,Jan,1062
+2021-22,Benling,0.03,Feb,1149
+2021-22,Benling,0.03,Mar,1013
+2021-22,Jitendra,0.02,Apr,36
+2021-22,Jitendra,0.02,May,13
+2021-22,Jitendra,0.02,Jun,43
+2021-22,Jitendra,0.02,Jul,212
+2021-22,Jitendra,0.02,Aug,196
+2021-22,Jitendra,0.02,Sep,131
+2021-22,Jitendra,0.02,Oct,280
+2021-22,Jitendra,0.02,Nov,256
+2021-22,Jitendra,0.02,Dec,493
+2021-22,Jitendra,0.02,Jan,532
+2021-22,Jitendra,0.02,Feb,562
+2021-22,Jitendra,0.02,Mar,1034
+2021-22,Others,0.1,Apr,749
+2021-22,Others,0.1,May,260
+2021-22,Others,0.1,Jun,567
+2021-22,Others,0.1,Jul,1202
+2021-22,Others,0.1,Aug,1279
+2021-22,Others,0.1,Sep,1627
+2021-22,Others,0.1,Oct,1827
+2021-22,Others,0.1,Nov,2318
+2021-22,Others,0.1,Dec,2604
+2021-22,Others,0.1,Jan,2900
+2021-22,Others,0.1,Feb,3795
+2021-22,Others,0.1,Mar,4977
